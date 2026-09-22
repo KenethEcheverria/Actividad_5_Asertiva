@@ -75,39 +75,58 @@ La regulación emocional se utilizará antes y durante esta conversación median
 
 # 4. Respuesta propuesta
 
-Aquí se redactará la respuesta asertiva correspondiente al escenario seleccionado.
+**Asunto: Solicitud de extensión de fecha de entrega - Proyecto IPC-2**
 
+Estimado Ingeniero:
+
+Espero que se encuentre muy bien. Le escribo para informarle que, debido a que tengo varias entregas importantes programadas para el mismo día, no podré cumplir con la entrega de nuestra asignación a tiempo. 
+
+Asumo toda la responsabilidad por esta situación y deseo negociar una nueva fecha explicando mi situación de forma clara, responsable y profesional. Para mantener mi compromiso con la calidad del trabajo, me gustaría proponer la entrega del proyecto para el día de mañana a primera hora, o si lo considera más adecuado, acepto una penalización sobre la calificación por la entrega tardía.
+
+Agradezco de antemano su comprensión y quedo atento a sus comentarios.
+
+Saludos cordiales,
+Grupo 9
 ---
 
 # 5. Simulación
 
-Aquí se realizará una simulación de la situación
+**Contexto:** Reunión virtual entre el estudiante y el docente/líder del equipo.
+
+*   **Estudiante:** "Buenas tardes. Quería hablar con usted porque tengo varias entregas importantes el mismo día y lamentablemente no podré cumplir con una de ellas a tiempo. Mi objetivo es negociar una nueva fecha explicando mi situación."
+*   **Docente:** "Buenas tardes. Comprendo la situación, pero las fechas ya estaban establecidas. ¿Qué solución propones?"
+*   **Estudiante:** "Para mantener mi credibilidad y compromiso, quiero entregar el proyecto con la mejor calidad posible. Propongo entregar el trabajo completo mañana al mediodía, aceptando que se aplique una reducción en mi calificación como compensación por el retraso."
+*   **Docente:** "Valoro tu honestidad. De acuerdo, aceptaré el trabajo mañana con una penalización del 10%."
+*   **Estudiante:** "Me parece un acuerdo justo. Muchas gracias por la oportunidad y la comprensión."
+
 
 ---
 
 # 6. Retroalimentación del equipo
 
 ## 6.1 Claridad del mensaje
-
-...
+*   El estudiante logró expresar sus ideas con claridad, respeto y seguridad.
+*   Se identificó el problema y se comunicó directamente la imposibilidad de entregar a tiempo.
 
 ## 6.2 Tono utilizado
-
-...
+*   El tono se mantuvo en un nivel de respeto mutuo, sin generar conflictos innecesarios.
+*   El lenguaje fue persuasivo y profesional.
 
 ## 6.3 Nivel de profesionalismo
-
-...
+*   Se demostró profesionalismo al explicar la situación de forma responsable.
+*   El estudiante asumió el error de planificación y propuso una solución concreta en lugar de presentar excusas.
 
 ## 6.4 Manejo emocional
-
-...
+*   Se aplicó la regulación emocional durante la interacción, controlando el tono y utilizando pausas.
+*   Se demostró control emocional al aceptar las condiciones impuestas por el docente de manera madura.
 
 ---
 
 # 7. Conclusion
 
-La aplicación de la comunicación asertiva en situaciones académica o laboral demuestra que establecer límites y solicitar ajustes de tiempo no es una falta de compromiso, sino a una responsabilidad o prioridades en ciertos proyectos. Al abordar la negociación de una nueva fecha de entrega con argumentos de que sean objetivos y claros, aclarando la situación sin justificaciones innecesarias y ofreciendo una propuesta, se puede llegar a un acuerdo para ambas partes.
+*   La aplicación de los principios de comunicación asertiva permite expresar ideas y establecer límites en interacciones académicas y laborales.
+*   Practicar la negociación asertiva ayuda a mantener la credibilidad y el compromiso, incluso frente a situaciones adversas donde hay un conflicto de fechas.
+*   El uso correcto de la escucha activa, la negociación y el manejo del tono son fundamentales para reducir conflictos y promover soluciones colaborativas efectivas.
 
 # 8. Evidencia de trabajo colaborativo
 
