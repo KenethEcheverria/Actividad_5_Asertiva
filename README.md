@@ -49,27 +49,27 @@ La principal dificultad es que existe una fecha de entrega previamente estableci
 
 ## 3.1 Estrategia utilizada
 
-Aquí se explicará la estrategia de comunicación asertiva seleccionada.
+La estrategia consistirá en negar una nueva fecha de entrega de manera profesión después del lapso establecido, para esto se deberá de argumentar de por que esto no es posible ampliar la fecha de entrega de manera directa y clara.
 
 ## 3.2 Escucha activa
 
-Aquí se explicará cómo se aplicó la escucha activa durante la interacción.
+Durante la reunión, se deberán de escuchar activamente y entender la situación de ambas partes, sin interrumpir a cada uno y escuchando sus argumentos.
 
 ## 3.3 Manejo de límites
 
-Aquí se explicará cómo se establecieron o respetaron los límites dentro de la situación.
+En los límites se analizará al comunicar de manera clara que no se puede asumir el cumplimiento de la entrega en la fecha actual. Esto se realiza con el objetivo de cumplir con el tiempo y las responsabilidades, evitando la sobrecarga de trabajo. 
 
 ## 3.4 Negociación
 
-Aquí se explicará cómo se aplicó la negociación en caso de ser necesaria.
+La negociación se para llegar a un acuerdo sobre una nueva fecha para la entrega. Se buscará ya sea una penalización o un nuevo requisito para la entrega, esto para que llegar a un acuerdo justo para el docente.
 
 ## 3.5 Técnica de retroalimentación
 
-Aquí se indicará y explicará la técnica de retroalimentación utilizada.
+Se utilizará la técnica de situacional, primero se analizar la situación y comprender su solicitud, se observa como es el comportamiento al momento de negocia, y en base a como es su forma de negociación y su conducta se decidirá si de otorga la solicitud.
 
 ## 3.6 Regulación emocional
 
-Aquí se explicará cómo se manejaron el tono, las pausas y las emociones durante la interacción.
+La regulación emocional se utilizará antes y durante esta conversación mediante el uso de pausas antes de responder, mantener la calma en todo momento y mantener una postura de profesionalismo.   Esto asegurará que nuestras acciones no se dejen llevar por las emociones, y así evitar un conflicto mayor.
 
 ---
 
@@ -105,11 +105,9 @@ Aquí se realizará una simulación de la situación
 
 ---
 
-# 7. Conclusiones
+# 7. Conclusion
 
-...
-
----
+La aplicación de la comunicación asertiva en situaciones académica o laboral demuestra que establecer límites y solicitar ajustes de tiempo no es una falta de compromiso, sino a una responsabilidad o prioridades en ciertos proyectos. Al abordar la negociación de una nueva fecha de entrega con argumentos de quesea objetivos y claros, aclarando la situación sin justificaciones innecesarias y ofreciendo una propuesta, se puede llegar a un acuerdo para ambas partes.
 
 # 8. Evidencia de trabajo colaborativo
 
