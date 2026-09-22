@@ -107,7 +107,7 @@ Aquí se realizará una simulación de la situación
 
 # 7. Conclusion
 
-La aplicación de la comunicación asertiva en situaciones académica o laboral demuestra que establecer límites y solicitar ajustes de tiempo no es una falta de compromiso, sino a una responsabilidad o prioridades en ciertos proyectos. Al abordar la negociación de una nueva fecha de entrega con argumentos de quesea objetivos y claros, aclarando la situación sin justificaciones innecesarias y ofreciendo una propuesta, se puede llegar a un acuerdo para ambas partes.
+La aplicación de la comunicación asertiva en situaciones académica o laboral demuestra que establecer límites y solicitar ajustes de tiempo no es una falta de compromiso, sino a una responsabilidad o prioridades en ciertos proyectos. Al abordar la negociación de una nueva fecha de entrega con argumentos de que sean objetivos y claros, aclarando la situación sin justificaciones innecesarias y ofreciendo una propuesta, se puede llegar a un acuerdo para ambas partes.
 
 # 8. Evidencia de trabajo colaborativo
 
