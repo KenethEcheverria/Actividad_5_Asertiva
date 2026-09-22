@@ -12,15 +12,15 @@
 
 ## 1.1 Situación
 
-Aquí se describirá la situación presentada en la tarjeta seleccionada.
+Tienes varias entregas importantes programadas para el mismo día y sabes que no podrás cumplir con una de ellas a tiempo. Debido a esta situación, necesitas comunicarte con el docente o con tu equipo para solicitar una extensión en la fecha de entrega.
 
 ## 1.2 Reto
 
-Aquí se indicará el reto planteado en la tarjeta.
+Negociar una nueva fecha de entrega explicando la situación de manera clara, responsable y profesional, evitando que la solicitud parezca una excusa o falta de compromiso.
 
 ## 1.3 Objetivo
 
-Aquí se indicará el objetivo planteado en la tarjeta.
+Practicar la negociación asertiva, manteniendo la credibilidad y demostrando compromiso con el cumplimiento de la actividad.
 
 ---
 
@@ -28,19 +28,20 @@ Aquí se indicará el objetivo planteado en la tarjeta.
 
 ## 2.1 Problema comunicativo
 
-Aquí se identificará el problema principal de comunicación presente en la situación.
+El problema comunicativo consiste en informar que no será posible cumplir con la fecha establecida y solicitar una extensión sin generar una impresión de irresponsabilidad. La comunicación debe realizarse con anticipación, de forma clara y respetuosa, explicando la situación y proponiendo una alternativa concreta.
 
 ## 2.2 Personas involucradas
 
-Aquí se describirán las personas involucradas y su papel dentro del escenario.
+- **Estudiante:** debe comunicar la dificultad, asumir responsabilidad y proponer una nueva fecha de entrega.
+- **Docente o integrante responsable del equipo:** debe escuchar la solicitud, evaluar la situación y decidir si es posible aceptar o negociar una nueva fecha.
 
 ## 2.3 Necesidades identificadas
 
-Aquí se describirán las necesidades de las personas involucradas.
+El estudiante necesita disponer de más tiempo para completar la entrega de manera adecuada. Al mismo tiempo, el docente o el equipo necesita mantener una planificación clara y asegurarse de que la nueva fecha acordada sea respetada.
 
 ## 2.4 Límites o dificultades identificadas
 
-Aquí se describirán los límites, dificultades o factores que generan el conflicto.
+La principal dificultad es que existe una fecha de entrega previamente establecida y varias responsabilidades coinciden el mismo día. También existe el riesgo de que la solicitud sea interpretada como falta de organización o compromiso. Por ello, es necesario comunicar la situación con responsabilidad, proponer una fecha realista y comprometerse a cumplir con el nuevo acuerdo.
 
 ---
 
@@ -112,3 +113,6 @@ Aquí se realizará una simulación de la situación
 
 # 8. Evidencia de trabajo colaborativo
 
+A continuación se presenta la evidencia de la reunión realizada por los tres integrantes del grupo durante el desarrollo de la actividad.
+
+![Evidencia de reunión del equipo](ValidacionReunion.png)
